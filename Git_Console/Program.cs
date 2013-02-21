@@ -10,7 +10,7 @@ namespace Git_Console
     {
         static void Main(string[] args)
         {
-            // This is testing
+            // This is testing for both
         }
     }
 }
