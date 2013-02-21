@@ -1,0 +1,7 @@
+C:\TFS\PROMSTFSA01\GAVS\GIT_Collab\Git_Console\Git_Console\bin\Debug\Git_Console.exe.config
+C:\TFS\PROMSTFSA01\GAVS\GIT_Collab\Git_Console\bin\Debug\Git_Console.exe.config
+C:\TFS\PROMSTFSA01\GAVS\GIT_Collab\Git_Console\bin\Debug\Git_Console.exe
+C:\TFS\PROMSTFSA01\GAVS\GIT_Collab\Git_Console\bin\Debug\Git_Console.pdb
+C:\TFS\PROMSTFSA01\GAVS\GIT_Collab\Git_Console\obj\Debug\Git_Console.csprojResolveAssemblyReference.cache
+C:\TFS\PROMSTFSA01\GAVS\GIT_Collab\Git_Console\obj\Debug\Git_Console.exe
+C:\TFS\PROMSTFSA01\GAVS\GIT_Collab\Git_Console\obj\Debug\Git_Console.pdb
